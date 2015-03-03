@@ -23,10 +23,10 @@
         "url": "http://github.com/mixpanel/mixpanel-node.git"
     },
     "dependencies": {
-        "event-stream": "3.0.x"
+        "event-stream": "^3.2.2"
     },
     "engines": {
-        "node": ">= 0.8.0"
+        "node": ">= 0.10.0"
     },
     "main": "./index.js"
 }
